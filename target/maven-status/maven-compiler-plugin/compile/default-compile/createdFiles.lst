@@ -1,0 +1,8 @@
+Flashcard.class
+Main.class
+RandomSorter.class
+Deck.class
+CardOrganizer.class
+WorstFirstSorter.class
+RecentMistakesFirstSorter.class
+StudySession.class
